@@ -7,7 +7,7 @@ public class SpringMain1 {
 
 	public static void main(String[] args) {
 	
-		
+		//learning spring boot
 		//cretes Spring container
 				ApplicationContext applicationContext=new ClassPathXmlApplicationContext("student.xml");
 				
